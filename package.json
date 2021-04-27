@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "body-parser": "^1.15.1",
-    "connect-redis": "^3.1.0",
+    "connect-redis": "^4.0.0",
     "cookie-parser": "^1.4.1",
     "deprecate": "^1.0.0",
     "express": "^4.13.4",
@@ -41,7 +41,7 @@
     "i18n-future": "^2.0.0",
     "lodash": "^4.17.4",
     "morgan": "^1.10.0",
-    "redis": "^2.6.0-2",
+    "redis": "^3.1.1",
     "winston": "^3.3.3"
   },
   "devDependencies": {
